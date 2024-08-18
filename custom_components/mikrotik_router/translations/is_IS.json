@@ -47,6 +47,7 @@
                     "sensor_environment": "Umhverfisbreytu skynjarar",
                     "sensor_kidcontrol": "Krakkastjórnun",
                     "sensor_mangle": "Bjögunarrofi",
+                    "sensor_routing_rules": "Routing Rules Switches",
                     "sensor_ppp": "PPP notendur",
                     "sensor_filter": "Síurofar",
                     "sensor_client_captive": "Captive portal data"

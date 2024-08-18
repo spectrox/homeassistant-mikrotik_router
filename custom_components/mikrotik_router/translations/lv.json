@@ -47,6 +47,7 @@
                     "sensor_environment": "Mainīgie vides sensori",
                     "sensor_kidcontrol": "Bērnu kontrole",
                     "sensor_mangle": "Manglu slēdži",
+                    "sensor_routing_rules": "Routing Rules Switches",
                     "sensor_ppp": "PPP lietotāji",
                     "sensor_filter": "Filtra slēdži",
                     "sensor_client_captive": "Captive portal data"

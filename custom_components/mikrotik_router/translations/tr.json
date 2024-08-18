@@ -47,6 +47,7 @@
                     "sensor_environment": "Çevre değişkeni sensörleri",
                     "sensor_kidcontrol": "Çocuk denetimi",
                     "sensor_mangle": "Mangle anahtarları",
+                    "sensor_routing_rules": "Routing Rules Switches",
                     "sensor_ppp": "PPP kullanıcıları",
                     "sensor_filter": "Filtre anahtarları",
                     "sensor_client_captive": "Captive portal data"

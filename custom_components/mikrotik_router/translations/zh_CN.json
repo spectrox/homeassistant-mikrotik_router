@@ -47,6 +47,7 @@
                     "sensor_environment": "环境变量传感器",
                     "sensor_kidcontrol": "儿童控制",
                     "sensor_mangle": "标记开关",
+                    "sensor_routing_rules": "Routing Rules Switches",
                     "sensor_ppp": "PPP 用户",
                     "sensor_filter": "过滤器开关",
                     "sensor_client_captive": "Captive portal data"

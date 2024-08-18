@@ -47,6 +47,7 @@
                     "sensor_environment": "Miljøvariabel sensorer",
                     "sensor_kidcontrol": "Barnekontroll",
                     "sensor_mangle": "Mangle brytere",
+                    "sensor_routing_rules": "Routing Rules Switches",
                     "sensor_ppp": "PPP Brukere",
                     "sensor_filter": "Filter brytere",
                     "sensor_client_captive": "Captive portal data"

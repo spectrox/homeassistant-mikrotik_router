@@ -47,6 +47,7 @@
                     "sensor_environment": "Sensori di variabili ambientali",
                     "sensor_kidcontrol": "Controllo bambini",
                     "sensor_mangle": "Interruttori a manganello",
+                    "sensor_routing_rules": "Routing Rules Switches",
                     "sensor_ppp": "Utenti PPP",
                     "sensor_filter": "Interruttori del filtro",
                     "sensor_client_captive": "Captive portal data"
