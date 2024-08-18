@@ -269,7 +269,7 @@ class MikrotikControllerOptionsFlowHandler(OptionsFlow):
                     vol.Optional(
                         CONF_SENSOR_MANGLE,
                         default=self.config_entry.options.get(
-                            CONF_SENSOR_, DEFAULT_SENSOR_MANGLE
+                            CONF_SENSOR_MANGLE, DEFAULT_SENSOR_MANGLE
                         ),
                     ): bool,
                     vol.Optional(
