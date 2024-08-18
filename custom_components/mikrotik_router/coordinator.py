@@ -1178,6 +1178,8 @@ class MikrotikCoordinator(DataUpdateCoordinator[None]):
                 [
                     {"name": "uniq-id"},
                     {"action": "combine"},
+                    {"key": "comment"},
+                    {"text": ","},
                     {"key": "action"},
                     {"text": ","},
                     {"key": "src-address"},
@@ -1191,6 +1193,8 @@ class MikrotikCoordinator(DataUpdateCoordinator[None]):
                 [
                     {"name": "name"},
                     {"action": "combine"},
+                    {"key": "comment"},
+                    {"text": ","},
                     {"key": "action"},
                     {"text": ","},
                     {"key": "src-address"},
