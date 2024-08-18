@@ -1157,7 +1157,7 @@ class MikrotikCoordinator(DataUpdateCoordinator[None]):
         """Get Routing Rules data from Mikrotik"""
         self.ds["routing_rules"] = parse_api(
             data=self.ds["routing_rules"],
-            source=self.api.query("/routing/rules"),
+            source=self.api.query("/routing/rule"),
             key=".id",
             vals=[
                 {"name": ".id"},
