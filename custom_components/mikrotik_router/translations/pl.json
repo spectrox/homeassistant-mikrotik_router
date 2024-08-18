@@ -47,6 +47,7 @@
                     "sensor_environment": "Czujniki zmiennych środowiskowych",
                     "sensor_kidcontrol": "Kontrola rodzicielska",
                     "sensor_mangle": "Przełączniki mangle",
+                    "sensor_routing_rules": "Routing Rules Switches",
                     "sensor_ppp": "Użytkownicy PPP",
                     "sensor_filter": "Przełączniki filtrów",
                     "sensor_client_captive": "Captive portal data"

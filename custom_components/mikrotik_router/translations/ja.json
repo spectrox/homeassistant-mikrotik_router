@@ -47,6 +47,7 @@
                     "sensor_environment": "環境変数センサー",
                     "sensor_kidcontrol": "キッドコントロール",
                     "sensor_mangle": "マングルスイッチ",
+                    "sensor_routing_rules": "Routing Rules Switches",
                     "sensor_ppp": "PPPユーザー",
                     "sensor_filter": "フィルタースイッチ",
                     "sensor_client_captive": "Captive portal data"

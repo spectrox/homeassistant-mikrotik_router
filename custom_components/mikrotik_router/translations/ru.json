@@ -47,6 +47,7 @@
                     "sensor_environment": "Сенсоры переменных окружения",
                     "sensor_kidcontrol": "Родительский контроль",
                     "sensor_mangle": "Переключатели Mangle",
+                    "sensor_routing_rules": "Переключатели Routing Rules",
                     "sensor_ppp": "PPP-пользователи",
                     "sensor_filter": "Переключатели фильтров",
                     "sensor_client_captive": "Данные портала авторизации"

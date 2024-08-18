@@ -47,6 +47,7 @@
                     "sensor_environment": "पारिस्थितिक वेरिएबल सेंसर",
                     "sensor_kidcontrol": "बच्चे के लिए कंट्रोल",
                     "sensor_mangle": "मैंगल स्विच",
+                    "sensor_routing_rules": "Routing Rules Switches",
                     "sensor_ppp": "PPP यूज़र",
                     "sensor_filter": "फ़िल्टर स्विच",
                     "sensor_client_captive": "Captive portal data"

@@ -47,6 +47,7 @@
                     "sensor_environment": "Snímače prostredia",
                     "sensor_kidcontrol": "Detská kontrola",
                     "sensor_mangle": "Mangle prepínače",
+                    "sensor_routing_rules": "Routing Rules Switches",
                     "sensor_ppp": "PPP používatelia",
                     "sensor_filter": "Prepínače filtrov",
                     "sensor_client_captive": "Captive portal data"

@@ -47,6 +47,7 @@
                     "sensor_environment": "Αισθητήρες μεταβολών περιβάλλοντος",
                     "sensor_kidcontrol": "Παιδικός έλεγχος",
                     "sensor_mangle": "Επιλογικοί διακόπτες",
+                    "sensor_routing_rules": "Routing Rules Switches",
                     "sensor_ppp": "Χρήστες PPP",
                     "sensor_filter": "Διακόπτες φίλτρου",
                     "sensor_client_captive": "Captive portal data"

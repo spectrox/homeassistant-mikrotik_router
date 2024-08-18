@@ -47,6 +47,7 @@
                     "sensor_environment": "Сенсори змінних оточення",
                     "sensor_kidcontrol": "Дитячий контроль",
                     "sensor_mangle": "Керувати перемикачами",
+                    "sensor_routing_rules": "Routing Rules Switches",
                     "sensor_ppp": "Користувачі PPP",
                     "sensor_filter": "Фільтрувати перемикачі",
                     "sensor_client_captive": "Дані Captive portal"

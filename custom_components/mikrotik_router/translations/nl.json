@@ -47,6 +47,7 @@
                     "sensor_environment": "Omgevingsvariabelesensors",
                     "sensor_kidcontrol": "Kindercontrole",
                     "sensor_mangle": "Mangelschakelaars",
+                    "sensor_routing_rules": "Routing Rules Switches",
                     "sensor_ppp": "PPP-gebruikers",
                     "sensor_filter": "Filterschakelaars",
                     "sensor_client_captive": "Captive portal data"

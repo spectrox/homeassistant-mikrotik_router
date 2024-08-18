@@ -47,6 +47,7 @@
                     "sensor_environment": "환경 변수 센서",
                     "sensor_kidcontrol": "어린이 이용 제어",
                     "sensor_mangle": "맹글 스위치",
+                    "sensor_routing_rules": "Routing Rules Switches",
                     "sensor_ppp": "PPP 사용자",
                     "sensor_filter": "필터 스위치",
                     "sensor_client_captive": "Captive portal data"
