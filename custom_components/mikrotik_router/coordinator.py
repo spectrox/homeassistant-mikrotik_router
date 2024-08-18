@@ -1161,7 +1161,7 @@ class MikrotikCoordinator(DataUpdateCoordinator[None]):
             key=".id",
             vals=[
                 {"name": ".id"},
-                {"name": "comment"},
+                {"name": "comment", "default_val": "src-address"},
                 {"name": "action"},
                 {"name": "src-address", "default": "any"},
                 {"name": "dst-address", "default": "any"},
