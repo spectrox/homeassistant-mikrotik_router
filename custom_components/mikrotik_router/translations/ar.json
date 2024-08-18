@@ -47,6 +47,7 @@
                     "sensor_environment": "مُستشعرات متغير البيئة",
                     "sensor_kidcontrol": "مراقبة الأطفال",
                     "sensor_mangle": "مفاتيح المِكواة الأُسطوانية",
+                    "sensor_routing_rules": "Routing Rules Switches",
                     "sensor_ppp": "مستخدمي PPP",
                     "sensor_filter": "مفاتيح الترشيح",
                     "sensor_client_captive": "Captive portal data"
